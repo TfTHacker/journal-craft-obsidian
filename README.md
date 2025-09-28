@@ -11,5 +11,7 @@ Once the ZIP file is downloaded, extract it to your desired location. Then, open
 
 ![Open Vault](./media/openvault.png)
 
+Select the folder named **JournalCraft-Vault**.
+
 # Follow TfT Hacker
 Also, follow TfTHacker at x.com/@TfTHacker for updates.
