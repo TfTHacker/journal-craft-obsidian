@@ -5,11 +5,11 @@ Learn more about JournalCraft at https://tfthacker.com/jco. This tool was create
 # Using this learning vault
 You need to download this entire repositiory to your local machine. You can download by clicking on the Code button, then "Download ZIP" as show in the image below.
 
-![Download ZIP](./media/download.png)
+<img src="./media/download.png" alt="Download ZIP" width="400">
 
 Once the ZIP file is downloaded, extract it to your desired location. Then, open Obsidian and using the Manage Vault option, select "Open folder as vault" and navigate to the location where you extracted the ZIP file.
 
-![Open Vault](./media/openvault.png)
+<img src="./media/openvault.png" alt="Open Vault" width="400">
 
 Select the folder named **JournalCraft-Vault**.
 
