@@ -1,0 +1,59 @@
+/* 
+Author: TfTHacker - more info  https://tfthacker.com/banner-image
+*/
+
+:root {
+  --banner-image-height: 150px;
+  --banner-image-header-top: 130px;
+}
+
+.markdown-preview-section:has([data-callout="banner-image"]) {
+  margin-top: var(--banner-image-header-top) !important;
+}
+
+.show-view-header div:not(.markdown-embed-content)>.markdown-preview-view:is(.banner-imageright):has([data-callout="banner-image"]) {
+  padding-top: 0px;
+}
+
+
+.markdown-preview-view [data-callout="banner-image"] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--banner-image-height) !important;
+  margin: 0px !important;
+  padding: 0px;
+  background-color: transparent;
+  border: 0px !important;
+  border-radius: unset !important;
+
+  .callout-icon {
+    display: none;
+  }
+
+  .callout-title {
+    padding: 0px !important;
+    border: 0px !important;
+  }
+
+  .callout-title-inner {
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+}
+
+.markdown-preview-view [data-callout="banner-image"] img {
+  position: absolute;
+  min-height: var(--banner-image-height) !important;
+  width: 100%;
+  object-fit: cover;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+[data-callout="banner-image"] {
+  .callout-icon {
+    display: none;
+  }
+}

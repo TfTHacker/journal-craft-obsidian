@@ -1,0 +1,11 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "readableLineLength": false,
+  "newLinkFormat": "shortest",
+  "defaultViewMode": "preview",
+  "showIndentGuide": true,
+  "useMarkdownLinks": false,
+  "promptDelete": false
+}

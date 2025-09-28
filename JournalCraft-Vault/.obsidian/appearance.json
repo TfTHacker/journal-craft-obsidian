@@ -1,0 +1,12 @@
+{
+  "cssTheme": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "banner-image",
+    "banner-image-big-image",
+    "ux-customize"
+  ],
+  "accentColor": "#0f954f",
+  "showViewHeader": true,
+  "showRibbon": false
+}
